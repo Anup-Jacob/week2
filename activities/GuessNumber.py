@@ -31,9 +31,7 @@ while y != 0:
 
     y = input("Do you wish to play again: (0/1) : ")
 
-
-
-print(y)
+    print(y)
 
 
 
