@@ -11,7 +11,7 @@
 
 
 # print("Enter any number between 1 to 20")
-# input(x)
+
 x = int(input("Enter any number between 1 to 20 : "))
 
 NumValue = 15
